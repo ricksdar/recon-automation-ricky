@@ -1,6 +1,6 @@
 #!/bin/bash
-chmod +x script.sh
-./script.sh
+chmod +x recon-auto.sh
+./recon-auto.sh
 
 INPUT_FILE="../input/domains.txt"
 ALL_SUBDOMAINS="../output/all-subdomains.txt"
