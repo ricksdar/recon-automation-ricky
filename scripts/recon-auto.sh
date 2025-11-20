@@ -1,4 +1,6 @@
 #!/bin/bash
+chmod +x script.sh
+./script.sh
 
 INPUT_FILE="../input/domains.txt"
 ALL_SUBDOMAINS="../output/all-subdomains.txt"
